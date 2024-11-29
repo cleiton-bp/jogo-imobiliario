@@ -24,7 +24,7 @@ O projeto é composto pelas seguintes classes:
 A classe `Main` é responsável por configurar e iniciar o jogo, onde cria instâncias das casas e adiciona jogadores ao jogo.
 
 ### **Jogo**
-A classe `Jogo` gerencia o fluxo do jogo. Ela contém métodos para:
+A classe `Jogo` gerencia o fluxo do jogo, que contém métodos para:
 - Configurar o jogo.
 - Adicionar jogadores e casas.
 - Iniciar o jogo.
